@@ -17,7 +17,7 @@ require (
 	go.opencensus.io v0.24.0
 	go.uber.org/zap v1.23.0
 	golang.org/x/oauth2 v0.2.0
-	golang.org/x/sys v0.2.0
+	golang.org/x/sys v0.13.0
 	google.golang.org/api v0.103.0
 )
 
@@ -68,10 +68,10 @@ require (
 	github.com/subosito/gotenv v1.4.1 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
-	golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be // indirect
-	golang.org/x/net v0.2.0 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/time v0.1.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c // indirect
